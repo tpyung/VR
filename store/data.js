@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1",
-      "name": "店1",
+      "name": "Cairshop模型店",
       "levels": [
         {
           "tileSize": 256,
@@ -53,7 +53,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2",
-      "name": "店2",
+      "name": "手信坊",
       "levels": [
         {
           "tileSize": 256,
@@ -104,7 +104,7 @@ var APP_DATA = {
     },
     {
       "id": "2-3",
-      "name": "店3",
+      "name": "新東陽",
       "levels": [
         {
           "tileSize": 256,
